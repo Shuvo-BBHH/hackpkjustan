@@ -165,10 +165,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://wa.me/+923188214452 ')
+            os.system('xdg-open https://web.facebook.com/mahdi80808 ')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://wa.me/+923188214452 ')
+        os.system('xdg-open https://web.facebook.com/mahdi80808 ')
  
  
  
