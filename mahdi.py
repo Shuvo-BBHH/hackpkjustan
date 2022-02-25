@@ -95,8 +95,8 @@ Mateen █╗
 \033[1;96m---------------------Metoo-Hacker---------------------
                 
 \033[0;95m╭════════════════════════════════════════════╮
-\033[0;91m║\033[0;92mAUTHOR : \033[0;92m Metoo-Hacker.                                
-\033[0;91m║\033[0;91m FB :\033[0;92m "Abdul-Mateen"                                             
+\033[0;91m║\033[0;92mAUTHOR : \033[0;92m MAHDI HASAN.                                
+\033[0;91m║\033[0;91m FB :\033[0;92m "Mahdi Hasan Shuvo"                                             
 \033[0;95m╰════════════════════════════════════════════╯
              
                 
@@ -151,8 +151,8 @@ logo2 = """
                                                 
 \033[1;96m--------------------- AM.BADSHAH --------------------
 """
-CorrectUsername = "AM"
-CorrectPassword = "AbdulMateen"
+CorrectUsername = "MAHDI"
+CorrectPassword = "HASAN"
  
 loop = 'true'
 while (loop == 'true'):
