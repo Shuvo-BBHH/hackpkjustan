@@ -13,4 +13,3 @@ cd pkjustanhack
 
 python2 mahdi.py
 
-https://github.com/Metoohacker/justnow
